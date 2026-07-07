@@ -6,8 +6,7 @@ estimados atípicos por región mediante análisis estadístico (IQR).
 
 ## Problema que resuelve
 Automatiza la extracción manual de licitaciones que hoy se procesa en
-Power BI/Excel, agregando una capa de auditoría de precios que permite
-detectar posibles sobreprecios o errores de digitación por región.
+Power BI/Excel, agregando una capa de auditoría de precios.
 
 ## Tecnologías
 Python · pandas · numpy · requests · SQLite

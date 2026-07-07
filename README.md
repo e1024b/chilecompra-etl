@@ -1,5 +1,4 @@
 # chilecompra-etl
-"""
 ETL Automatizado - ChileCompra (Mercado Público)
 --------------------------------------------------
 Extrae licitaciones públicas del sector salud desde la API abierta de
